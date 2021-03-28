@@ -27,7 +27,7 @@ a {
     margin: 0 auto;
 }
 p {
-    width: 1000px;    
+    width: 670px;    
 }
 p {
     text-align: center;
@@ -41,7 +41,4 @@ div h1 {
 }
 div {
     background-color: gold;
-}
-div h1 a {
-    text-align: center;
 }
